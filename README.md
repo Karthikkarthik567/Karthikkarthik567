@@ -69,7 +69,7 @@ I specialize in **AI, Machine Learning, and Backend Development**, solving real-
 ## 📫 Connect With Me
 [![Gmail](https://img.shields.io/badge/Email-mkarthik1784@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mkarthik1784@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://karthikkarthik567.github.io/My-personal-portfolio-website/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthik-m/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthik-m-b4a75631b/)
 
 ---
 
