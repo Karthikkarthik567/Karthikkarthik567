@@ -42,7 +42,7 @@ I specialize in **AI, Machine Learning, and Backend Development**, solving real-
 - Built an **AI object detection system** to identify cataracts from eye images  
 - Applied **image preprocessing, augmentation & model tuning** for high accuracy  
 
-### 🔹 Tongue Dysplasia Detection
+### 🔹 Tongue Dysplasia Detection 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" /> ![ML](https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square)
 - Developed a **medical image classification system** for early detection  
 - Handled **feature extraction, dataset preprocessing & model evaluation**
