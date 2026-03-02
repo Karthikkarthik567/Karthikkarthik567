@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Karthik M
 
 ### 💻 Software Developer | 🤖 AI & ML Enthusiast  
-🎓 Computer Science Student | India   
+🎓 Computer Science Student | India 
 
 --- 
 
