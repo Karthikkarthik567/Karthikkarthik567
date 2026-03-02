@@ -58,7 +58,7 @@ I specialize in **AI, Machine Learning, and Backend Development**, solving real-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karthikkarthik567&show_icons=true&theme=radical)
 
 ---
-
+ 
 ## 📈 Current Focus
 - Strengthening **Data Structures & Algorithms**  
 - Exploring advanced **Machine Learning & Deep Learning**  
