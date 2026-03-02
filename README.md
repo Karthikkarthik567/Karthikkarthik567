@@ -3,7 +3,7 @@
 ### 💻 Software Developer | 🤖 AI & ML Enthusiast  
 🎓 Computer Science Student | India 
 
---- 
+---  
 
 ## 🚀 About Me
 I'm a passionate Computer Science student building **intelligent, scalable software solutions**.  
